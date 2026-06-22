@@ -1,3 +1,6 @@
+⚠️ **Note:** *This repository contains academic assignments and experimental scripts completed during my coursework to practice foundational concepts. It is kept public for historical reference.*
+
+# Transformer-Based-English-French-Translation
 # Transformer-Based-English-French-Translation
 
 # English-French Translation using Transformer Model
